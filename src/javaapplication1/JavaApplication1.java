@@ -10,8 +10,7 @@ public class JavaApplication1 {
     System.out.println("First change");
     System.out.println("Second change");
     
-     System.out.println("Message to NewBranch");
-     System.out.println(" Second message to NewBranch");
+    System.out.println("Message to NewBranch");
 
     }
     
