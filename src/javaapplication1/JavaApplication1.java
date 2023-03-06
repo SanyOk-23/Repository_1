@@ -9,6 +9,8 @@ public class JavaApplication1 {
     System.out.println("Hello world!");  
     System.out.println("First change");
     System.out.println("Second change");
+    
+     System.out.println("Message to NewBranch");
     }
     
 }
