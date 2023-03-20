@@ -17,7 +17,8 @@ public class JavaApplication1 {
     System.out.println("Message to NewBranch");
     
     System.out.println("token2:  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 ");
-
+    
+System.out.println("0zLQ9R ");
     }
     
 }
